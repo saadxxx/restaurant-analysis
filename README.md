@@ -99,7 +99,7 @@ plt.show()
 ```
 restaurant-analysis/
 ├── data/                    # 原始数据
-│   ├── orders_2023.csv
+│   ├── meal_order_detail.xlsx
 │   └── ...
 ├── notebooks/               # Jupyter分析笔记
 │   ├── 01_data_cleaning.ipynb
